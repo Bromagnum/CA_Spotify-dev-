@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_Sotify(Ödev)", "CA_Sotify(Ödev)\CA_Sotify(Ödev).csproj", "{7BC88201-9D17-44FE-ACAD-0F5C52BCB145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BC88201-9D17-44FE-ACAD-0F5C52BCB145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC88201-9D17-44FE-ACAD-0F5C52BCB145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC88201-9D17-44FE-ACAD-0F5C52BCB145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC88201-9D17-44FE-ACAD-0F5C52BCB145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16228A19-EFD8-4522-8291-FF17E17F967B}
+	EndGlobalSection
+EndGlobal
